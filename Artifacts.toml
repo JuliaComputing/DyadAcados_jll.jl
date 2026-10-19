@@ -1,0 +1,207 @@
+[[DyadAcados]]
+arch = "aarch64"
+git-tree-sha1 = "b861ba050d4b56760eafe041834916bdb3410ee8"
+lazy = true
+march = "apple_m1"
+os = "macos"
+
+    [[DyadAcados.download]]
+    sha256 = "c41f4c510c5a9e81dfa434bff3851556ecb526e5f48b9fc55964bf2ff2697677"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.aarch64-apple-darwin-march+apple_m1.tar.gz"
+[[DyadAcados]]
+arch = "aarch64"
+git-tree-sha1 = "4709e1be8de4d966fbb03b581c5b0d75c6c57412"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[DyadAcados.download]]
+    sha256 = "7d01d7c853abbf09b983b815b25fb8978a0bbd30367cb7c03daf40b13362b1ea"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.aarch64-linux-gnu.tar.gz"
+[[DyadAcados]]
+arch = "aarch64"
+git-tree-sha1 = "d6d19140b95a7fe97fad735804da685b85ea1d44"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[DyadAcados.download]]
+    sha256 = "97680d82b5b19bef63bef190823bc5d4944729369dbf571bd37f59522dadfe9d"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.aarch64-linux-musl.tar.gz"
+[[DyadAcados]]
+arch = "x86_64"
+git-tree-sha1 = "c2eaa600b990c840d206a4517ec94d521e484cde"
+lazy = true
+march = "avx"
+os = "macos"
+
+    [[DyadAcados.download]]
+    sha256 = "d1afbebd58536c826ff89d8b4c505cc18a85e055f6a73b90af0df1009e1272f9"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.x86_64-apple-darwin-march+avx.tar.gz"
+[[DyadAcados]]
+arch = "x86_64"
+git-tree-sha1 = "920b164b58c990dbc2d090c4d487080ee20a82d6"
+lazy = true
+march = "avx2"
+os = "macos"
+
+    [[DyadAcados.download]]
+    sha256 = "e1960e90d5ea3a67e710552538422ef6f1c568e457f8ac639818664a69d570d6"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.x86_64-apple-darwin-march+avx2.tar.gz"
+[[DyadAcados]]
+arch = "x86_64"
+git-tree-sha1 = "7e99ae86c7589f1b9adcc7e8dbfbb3ca7b5f8b20"
+lazy = true
+march = "avx512"
+os = "macos"
+
+    [[DyadAcados.download]]
+    sha256 = "ebc8dbc14a4e0861a9101cc707256311b1eb834709870549fde637f3f5ac7be9"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.x86_64-apple-darwin-march+avx512.tar.gz"
+[[DyadAcados]]
+arch = "x86_64"
+git-tree-sha1 = "638155d4f3ba62c1108853945526a2c8dcc2aa11"
+lazy = true
+march = "x86_64"
+os = "macos"
+
+    [[DyadAcados.download]]
+    sha256 = "bdb6683c112475b494f4fd9b07900b36a4014388441c1f298b7917edd161a736"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.x86_64-apple-darwin-march+x86_64.tar.gz"
+[[DyadAcados]]
+arch = "x86_64"
+git-tree-sha1 = "452cf3adb0d8256a71f19f6e2a13917b2d79e777"
+lazy = true
+libc = "glibc"
+march = "avx"
+os = "linux"
+
+    [[DyadAcados.download]]
+    sha256 = "bc32c7ea2b2285c602264fcebc21f682008682739d26d8fe58c52e1ea4b2235d"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.x86_64-linux-gnu-march+avx.tar.gz"
+[[DyadAcados]]
+arch = "x86_64"
+git-tree-sha1 = "cb6133768067a9afdb63a7bcc1b2c5617b913af6"
+lazy = true
+libc = "glibc"
+march = "avx2"
+os = "linux"
+
+    [[DyadAcados.download]]
+    sha256 = "60310111d06830983c5696bd2dbf8c795c05f1676d9747ea94b2f50e5343e9ba"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.x86_64-linux-gnu-march+avx2.tar.gz"
+[[DyadAcados]]
+arch = "x86_64"
+git-tree-sha1 = "d6b5b492ed7ccaaee324eb53363b63f4bc383ce0"
+lazy = true
+libc = "glibc"
+march = "avx512"
+os = "linux"
+
+    [[DyadAcados.download]]
+    sha256 = "53b57bcc60cd54eef222fdda08eb54bc4ca079804a3b2451e0426e8bb1b897cd"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.x86_64-linux-gnu-march+avx512.tar.gz"
+[[DyadAcados]]
+arch = "x86_64"
+git-tree-sha1 = "f9588174eed5c78e16f549acaca57ee89ca133ba"
+lazy = true
+libc = "glibc"
+march = "x86_64"
+os = "linux"
+
+    [[DyadAcados.download]]
+    sha256 = "32bcc197d939d67eb9e5d0bb91878d46a4c0dc2f178aa61175127a1d508a7ce6"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.x86_64-linux-gnu-march+x86_64.tar.gz"
+[[DyadAcados]]
+arch = "x86_64"
+git-tree-sha1 = "a3d81a6e6d20ea7d29bcc3290fb223a7a59b4cf2"
+lazy = true
+libc = "musl"
+march = "avx"
+os = "linux"
+
+    [[DyadAcados.download]]
+    sha256 = "508efe2eccaf40a55cb9c2393c642a771be7577a1721d80df51a4b5f064db5b0"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.x86_64-linux-musl-march+avx.tar.gz"
+[[DyadAcados]]
+arch = "x86_64"
+git-tree-sha1 = "b1bd9287c32780f6525e05a4a718b916cdfb26bc"
+lazy = true
+libc = "musl"
+march = "avx2"
+os = "linux"
+
+    [[DyadAcados.download]]
+    sha256 = "39c0f61b2be47e81615a7a1d9e7241325e78cc01b5a0de73e41e9262e5ae580c"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.x86_64-linux-musl-march+avx2.tar.gz"
+[[DyadAcados]]
+arch = "x86_64"
+git-tree-sha1 = "2eb58b357a06b8c5ca87ba8779f93ac01e767b45"
+lazy = true
+libc = "musl"
+march = "avx512"
+os = "linux"
+
+    [[DyadAcados.download]]
+    sha256 = "e33ab2e7b2833e6d5526a45cd2c5cb23f0805a63695a9f3fba94402cb2cb8317"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.x86_64-linux-musl-march+avx512.tar.gz"
+[[DyadAcados]]
+arch = "x86_64"
+git-tree-sha1 = "b47712de806b56c350a0b3cea66a8b8fa34e7850"
+lazy = true
+libc = "musl"
+march = "x86_64"
+os = "linux"
+
+    [[DyadAcados.download]]
+    sha256 = "3506ff531c969238740dc654b748911682bba88c568ea768206e8a5a5ee83586"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.x86_64-linux-musl-march+x86_64.tar.gz"
+[[DyadAcados]]
+arch = "x86_64"
+git-tree-sha1 = "bd3ba3228a1ff90a09df753a8c1a2f1c2fd2f75b"
+lazy = true
+os = "freebsd"
+
+    [[DyadAcados.download]]
+    sha256 = "91cc4f9689e397d58282e4c1dcf0bfe159655446b67f37531e3df40ac9021c36"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.x86_64-unknown-freebsd.tar.gz"
+[[DyadAcados]]
+arch = "x86_64"
+git-tree-sha1 = "be08697c69823182938716073932e939bbe9da36"
+lazy = true
+march = "avx"
+os = "windows"
+
+    [[DyadAcados.download]]
+    sha256 = "11bdd3d9aa415e7369b9432c9bffc568f2bde129ab23f12f8547ce8549f2d66b"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.x86_64-w64-mingw32-march+avx.tar.gz"
+[[DyadAcados]]
+arch = "x86_64"
+git-tree-sha1 = "fd8953cd6458df467bac22f30a825d6fc57c19e3"
+lazy = true
+march = "avx2"
+os = "windows"
+
+    [[DyadAcados.download]]
+    sha256 = "90c818f6961b9338a6a0f4650ae09068191555289c801d7fbb3f104e7b27ef89"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.x86_64-w64-mingw32-march+avx2.tar.gz"
+[[DyadAcados]]
+arch = "x86_64"
+git-tree-sha1 = "ad66091d76afb41d614f46b8e3c024d9b4d55eba"
+lazy = true
+march = "avx512"
+os = "windows"
+
+    [[DyadAcados.download]]
+    sha256 = "588e24e0558fa93adbf6a0607c18531d7424da8cdad6f624feb51b3112da0ca8"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.x86_64-w64-mingw32-march+avx512.tar.gz"
+[[DyadAcados]]
+arch = "x86_64"
+git-tree-sha1 = "8f34cfea8cd327ca174d84374986e91e8458c302"
+lazy = true
+march = "x86_64"
+os = "windows"
+
+    [[DyadAcados.download]]
+    sha256 = "93a3fefff95b6adeda693631dca7375f1d371b89eaaf92135d5b486a45caa19e"
+    url = "https://github.com/JuliaComputing/DyadAcados_jll.jl/releases/download/DyadAcados-v0.6.0+0/DyadAcados.v0.6.0.x86_64-w64-mingw32-march+x86_64.tar.gz"
